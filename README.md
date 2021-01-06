@@ -6,5 +6,5 @@ A personal project built with expressjs + typescript and mongoose on the backend
 
 ## Website
 App hosted at amazon aws using s3 bucket, cloudfront, elastic beanstalk.<br/>
-[https://elyondb.net](https://elyonbe.net)<br/>
+[https://elyondb.net](https://elyondb.net)<br/>
 PS: Currently offline to avoid monthly bills.
